@@ -1,6 +1,6 @@
 package main.java.metodounico;
 
-public class ContaEstacionamento {
+public abstract class ContaEstacionamento {
     private Veiculo veiculo;
     private long inicio, fim;
 
