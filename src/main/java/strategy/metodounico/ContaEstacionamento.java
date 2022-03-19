@@ -1,4 +1,4 @@
-package main.java.metodounico;
+package main.java.strategy.metodounico;
 
 public abstract class ContaEstacionamento {
     private Veiculo veiculo;

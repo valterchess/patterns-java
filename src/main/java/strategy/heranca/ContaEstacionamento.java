@@ -1,4 +1,4 @@
-package main.java.heranca;
+package main.java.strategy.heranca;
 
 public abstract class ContaEstacionamento {
     private Veiculo veiculo;

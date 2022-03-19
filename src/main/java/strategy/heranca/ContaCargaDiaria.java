@@ -1,4 +1,4 @@
-package main.java.heranca;
+package main.java.strategy.heranca;
 
 public class ContaCargaDiaria extends ContaEstacionamento {
     @Override
